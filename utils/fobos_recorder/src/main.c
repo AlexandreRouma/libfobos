@@ -14,7 +14,7 @@
 #include <math.h>
 #include <string.h>
 #include <fobos.h>
-#include <wav/wav_file.h>
+#include "wav_file.h"
 //==============================================================================
 typedef struct rx_ctx_t
 {

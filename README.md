@@ -2,10 +2,6 @@
 
 This is the Fobos SDR receiver host software API shared library. Lightweight and easy to start. Full source code. Application examples.
 
-## Versions
-
-See [versions.txt](versions.txt)
-
 ## Platforms tested on
 
 - Linux (Ubuntu 18.04 LTS, Ubuntu 22.04 LTS, Raspbian ...)

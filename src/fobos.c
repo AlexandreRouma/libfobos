@@ -20,10 +20,9 @@
 #include <stdlib.h>
 #include "fobos.h"
 #ifdef _WIN32
-#include <libusb-1.0/libusb.h>
+#include <libusb.h>
 #include <conio.h>
-#include <Windows.h>
-#pragma comment(lib, "libusb-1.0.lib")                                             
+#include <Windows.h>                                            
 #define printf_internal _cprintf
 #else
 #include <libusb-1.0/libusb.h>
